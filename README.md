@@ -14,7 +14,7 @@
 
 # Day5 大數據程式語言評量測驗與解析
 
-參考資料
+# 參考資料
 
 + RWEPA: http://rwepa.blogspot.com/
 
@@ -24,4 +24,4 @@
 
 + R商業預測與應用(付費) https://mastertalks.tw/products/r-2?ref=MCLEE
 
-辛苦啦,完成 Python 程式之旅 ~~
++ 辛苦啦,完成 Python 程式之旅 ~~
