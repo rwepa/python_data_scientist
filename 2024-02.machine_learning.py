@@ -40,7 +40,17 @@ GitHub   : https://github.com/rwepa
 
 # 步驟 1：商業理解
 
-# 步驟 2：資料理解 
+# 步驟 2：資料理解(摘要,敘述性統計分析,資料視覺化,資料清除,合併,特徵選擇,資料轉換)
+#   + 資料轉換: 正規化(Normalization, L1, L2)
+#       + L1: L1-norm is also known as least absolute deviations (LAD).
+#       + L2: L2-norm is also known as least squares. 
+#   + 標準化(Standardization)
+#       + (0,1)標準化.
+#       + 最小最大標準化(min-max normalization).
+#       + Z-score標準化: 將任意資料轉換為趨近平均值為0, 標準差為1的分配.
+#   + 標籤編碼 (Label encoding): YES轉換為1, NO轉換為0.
+#   + 數值型資料轉換為類別型資料.
+#   + 獨熱編碼 (One-hot encoding): {X1,X2,X3} 轉換為 {1 0 0, 0 1 0, 0 0 1}.
 
 # 步驟 3：資料準備 
 #   + 將資料隨機區分為二大類：訓練集(train dataset), 測試集(test dataset)
