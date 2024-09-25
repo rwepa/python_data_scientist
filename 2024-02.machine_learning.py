@@ -66,7 +66,8 @@ GitHub   : https://github.com/rwepa
 
 # k 折交叉驗證 (k-fold cross validation)
 # k-fold 劃分方法可以降低數據劃分帶來的影響.
-# 將資料區分成 k 份，每次使用 (k-1) 做為訓練集, 另1份做為測試集，計算 k 次的平均交叉驗證準確度並做為模型評估的指標. 一般可以使用 k = 10.
+# 將資料區分成 k 份，每次使用 (k-1) 做為訓練集, 另1份做為測試集，計算 k 次的平均交叉驗證準確度
+# 並做為模型評估的指標. 一般可以使用 k = 10.
 
 # 步驟 4：模式建立    (使用訓練集)
 
@@ -84,7 +85,8 @@ GitHub   : https://github.com/rwepa
 
 # 機器學習是實現人工智慧的一個方法,即是以機器學習為手段解決人工智慧中的問題.
 
-# 機器學習在近30多年已發展為一門多領域交叉學科,涉及機率論,統計學,近似理論,凸分析(最佳化問題),計算複雜性理論等多門學科.
+# 機器學習在近30多年已發展為一門多領域交叉學科,涉及機率論,統計學,近似理論,凸分析(最佳化問題),
+# 計算複雜性理論等多門學科.
 
 # 機器學習理論主要是設計和分析一些讓電腦可以自動「學習」的演算法.
 
@@ -100,7 +102,8 @@ GitHub   : https://github.com/rwepa
 # 2.非監督式學習與監督式學習
 ##############################
 
-# 非監督式學習 (unsupervised learning) 又稱為無監督學習, 是機器學習的一種方法, 沒有給定事先標記過的訓練範例(Y), 自動對輸入的資料進行分群.
+# 非監督式學習 (unsupervised learning) 又稱為無監督學習, 是機器學習的一種方法,
+# 沒有給定事先標記過的訓練範例(Y), 自動對輸入的資料進行分群.
 
 # 非監督學習的主要運用包含:
 #   + 集群分析 (cluster analysis)
@@ -113,8 +116,10 @@ GitHub   : https://github.com/rwepa
 
 # 監督式學習 (supervised learning): 已知 Y(人為標註的結果, 表示標籤), 進行 X --> 預測 --> Y
 
-# X: 自變數, 獨立變數 independent variable, 預測變量 predictor variable, 解釋變量 explanatory variable, 共變量 covariate.
-# Y: 反應變數 response variable, 因變數, 依變數, 應變數, 被解釋變數 dependent variable, 結果變數 outcome variable.
+# X: 自變數, 獨立變數 independent variable, 預測變量 predictor variable, 
+#    解釋變量 explanatory variable, 共變量 covariate.
+# Y: 反應變數 response variable, 因變數, 依變數, 應變數, 被解釋變數 dependent variable, 
+#    結果變數 outcome variable.
 
 # 迴歸分析 Regression analysis
 # 廣義線性模型 General linear model (GLM): 適用於Y為類別型變數或發生次數變數.
