@@ -4,17 +4,17 @@
 
 + 大綱:
 
-1.RWEPA簡介
+  1.RWEPA簡介
 
-2.資料分析暨視覺化的心法
+  2.資料分析暨視覺化的心法
 
-3.Python 簡介
+  3.Python 簡介
 
-4.Anaconda 簡介
+  4.Anaconda 簡介
 
-5.資料型態與四大資料物件
+  5.資料型態與四大資料物件
 
-6.pandas 資料處理
+  6.pandas 資料處理
 
 + pdf: https://github.com/rwepa/python_data_scientist/blob/main/2024-01.python_tutorial.pdf
 
