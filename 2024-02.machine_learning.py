@@ -36,7 +36,8 @@ GitHub   : https://github.com/rwepa
 # https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
 
 # 跨產業資料探勘標準作業流程 (CRoss Industry Standard Process for Data Mining)
-# CRISP-DM是於1990年起，由SPSS以及NCR兩大廠商在合作戴姆克萊斯勒-賓士(Daimler Benz)的資料倉儲以及資料探勘過程中發展出來的。
+# CRISP-DM是於1990年起，由SPSS以及NCR兩大廠商在合作戴姆克萊斯勒-賓士(Daimler Benz)的
+# 資料倉儲以及資料探勘過程中發展出來的。
 
 # 步驟 1：商業理解
 
@@ -55,7 +56,8 @@ GitHub   : https://github.com/rwepa
 # 步驟 3：資料準備 
 #   + 將資料隨機區分為二大類：訓練集(train dataset), 測試集(test dataset)
 #   + 訓練集: 訓練模型, 佔整體資料的70%
-#   + 驗證集: 部分方法考慮區分驗證集 (validation dataset). 用於評估模型的初步判斷與超參數調整. 如果模型不具有超參數, 則不用區分此驗證集. 超參數: 例如類神經網路中隱藏單元的數量.
+#   + 驗證集: 部分方法考慮區分驗證集 (validation dataset). 用於評估模型的初步判斷與超參數調整.
+#             如果模型不具有超參數, 則不用區分此驗證集. 超參數: 例如類神經網路中隱藏單元的數量.
 #   + 測試集: 評估模型, 佔整體資料的30%
 
 # 區分比例範例1: 訓練集 70%, 測試集 30%
