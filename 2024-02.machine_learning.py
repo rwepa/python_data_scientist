@@ -158,7 +158,7 @@ GitHub   : https://github.com/rwepa
 # 1.10.1. Classification
 # https://scikit-learn.org/stable/modules/tree.html#classification
 
-# 範例: scikit-learn 決策樹
+# 範例: scikit-learn - iris 決策樹
 
 # 載入模組
 from sklearn.model_selection import train_test_split # 訓練集,測試集分割
@@ -169,6 +169,9 @@ from matplotlib import pyplot as plt # 載入繪圖
 
 # 載入資料
 iris = load_iris()
+
+# 物件型態
+type(iris) # sklearn.utils._bunch.Bunch
 
 # 設定自變數 X
 X = iris.data
@@ -186,14 +189,16 @@ clf = DecisionTreeClassifier(max_leaf_nodes=5, random_state=0)
 clf.fit(X_train, y_train)
 
 # 設定繪圖反應變數的標記
-class_names = iris['target_names']
+class_names = iris["target_names"]
 
 # 設定繪圖大小-英吋
 plt.figure(figsize=(12, 12))
 
 # 繪製決策樹視覺化
-tree.plot_tree(clf, fontsize=5, class_names=class_names)
+tree.plot_tree(clf, fontsize=6, class_names=class_names)
 
 # 儲存決策樹
-plt.savefig('iris_decision_tree', dpi=300)
+plt.savefig("iris_decision_tree.png", dpi=300)
+
+plt.savefig('iris_decision_tree.pdf', dpi=300)
 # end
