@@ -34,7 +34,7 @@
   
   5.scikit-learnd 模組簡介
 
-+ python: (https://github.com/rwepa/python_data_scientist/blob/main/2024-02.machine_learning.py)
++ python: https://github.com/rwepa/python_data_scientist/blob/main/2024-02.machine_learning.py
 
 # Day3 資料探勘技術介紹
 
