@@ -22,6 +22,20 @@
 
 # Day2 Python 機器學習
 
++ 大綱:
+
+  1.CRISP-DM 跨產業資料探勘標準作業流程
+  
+  2.機器學習簡介
+  
+  3.非監督式學習與監督式學習
+  
+  4.監督式學習的評估
+  
+  5.scikit-learnd 模組簡介
+
++ python: https://github.com/rwepa/python_data_scientist/blob/main/2024-02.machine_learning.py
+
 # Day3 資料探勘技術介紹
 
 # Day4 Python程式應用實例
