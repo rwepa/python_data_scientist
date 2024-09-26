@@ -51,10 +51,10 @@ GitHub   : https://github.com/rwepa
 #       + Z-score標準化: 將任意資料轉換為趨近平均值為0, 標準差為1的分配.
 #   + 標籤編碼 (Label encoding): YES轉換為1, NO轉換為0.
 #   + 數值型資料轉換為類別型資料.
-#   + 獨熱編碼 (One-hot encoding): {X1,X2,X3} 轉換為 {1 0 0, 0 1 0, 0 0 1}.
+#   + 獨熱編碼 (One-hot encoding): X1轉換為 [1 0 0], X2轉換為 [0 1 0], X3轉換為 [0 0 1].
 
 # 步驟 3：資料準備 
-#   + 將資料隨機區分為二大類：訓練集(train dataset), 測試集(test dataset)
+#   + 將資料隨機區分為二大類：訓練集(train dataset), 測試集(test dataset), 有的模型會加上驗證集.
 #   + 訓練集: 訓練模型, 佔整體資料的70%
 #   + 驗證集: 部分方法考慮區分驗證集 (validation dataset). 用於評估模型的初步判斷與超參數調整.
 #             如果模型不具有超參數, 則不用區分此驗證集. 超參數: 例如類神經網路中隱藏單元的數量.
