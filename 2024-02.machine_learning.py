@@ -41,7 +41,7 @@ GitHub   : https://github.com/rwepa
 
 # 步驟 1：商業理解
 
-# 步驟 2：資料理解(摘要,敘述性統計分析,資料視覺化,資料清除,合併,特徵選擇,資料轉換)
+# 步驟 2：資料理解(資料匯入,摘要,敘述性統計分析,資料視覺化,資料清除,合併,特徵選擇,資料轉換)
 #   + 資料轉換: 正規化(Normalization, L1, L2)
 #       + L1: L1-norm is also known as least absolute deviations (LAD).
 #       + L2: L2-norm is also known as least squares. 
