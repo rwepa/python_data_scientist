@@ -1,4 +1,4 @@
-檔案：期末報告注意事項.txt
+檔案：report_readme.txt
 繳交期限：2024年10月23日前
 注意：期末報告使用 Jupyter notebook 撰寫
 
