@@ -38,9 +38,15 @@
 
 # Day3 資料探勘技術介紹
 
++ python: https://github.com/rwepa/python_data_scientist/blob/main/2024-03.data_mining.ipynb
+
 # Day4 Python程式應用實例
 
 # Day5 大數據程式語言評量測驗與解析
+
+# 期末報告
+
++ 注意事項: https://github.com/rwepa/python_data_scientist/blob/main/report_readme.txt
 
 # 參考資料
 
