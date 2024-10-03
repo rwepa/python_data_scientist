@@ -42,6 +42,12 @@
 
 # Day4 Python程式應用實例
 
++ 期未報告範例
+
+主題: 投資人投資組合-集群法應用
+
+下載: https://github.com/rwepa/python_data_scientist/blob/main/report_investor_portfolio/report_168_alan.ipynb
+
 # Day5 大數據程式語言評量測驗與解析
 
 # 期末報告
