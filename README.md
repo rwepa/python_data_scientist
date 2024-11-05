@@ -1,9 +1,11 @@
 # Python 程式語言應用
 
-+ 期末報告範例-投資人投資組合-集群法應用: 
++ 期末報告範例-投資人投資組合-集群法應用:
+
 https://github.com/rwepa/python_data_scientist/blob/main/report_investor_portfolio/report_168_alan.ipynb
 
 + 期末報告範例-股價預測: 
+
 https://github.com/rwepa/python_data_scientist/blob/main/report_stock_prediction/report_stock_prediction.ipynb
 
 # Day1 Python 語言簡介
