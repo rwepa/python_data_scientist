@@ -1,0 +1,22 @@
+|--- feature_3 <= 0.80
+|   |--- class: setosa
+|--- feature_3 >  0.80
+|   |--- feature_3 <= 1.65
+|   |   |--- feature_2 <= 4.95
+|   |   |   |--- class: versicolor
+|   |   |--- feature_2 >  4.95
+|   |   |   |--- feature_0 <= 6.05
+|   |   |   |   |--- feature_3 <= 1.55
+|   |   |   |   |   |--- class: virginica
+|   |   |   |   |--- feature_3 >  1.55
+|   |   |   |   |   |--- class: versicolor
+|   |   |   |--- feature_0 >  6.05
+|   |   |   |   |--- class: virginica
+|   |--- feature_3 >  1.65
+|   |   |--- feature_2 <= 4.85
+|   |   |   |--- feature_1 <= 3.10
+|   |   |   |   |--- class: virginica
+|   |   |   |--- feature_1 >  3.10
+|   |   |   |   |--- class: versicolor
+|   |   |--- feature_2 >  4.85
+|   |   |   |--- class: virginica
