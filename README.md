@@ -50,9 +50,13 @@
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/report_stock_prediction/report_stock_prediction.ipynb
 
-+ iris鳶尾花卉物種分類預測
++ Tutorial-iris鳶尾花卉物種分類預測
 
-下載:
+下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_iris_decision_tree/iris_decisiion_tree.ipynb
+
+決策樹模型視覺化: ![image](https://github.com/rwepa/python_data_scientist/blob/main/tutorial_iris_decision_tree/tree_cart.png)
+
+決策樹文字模型: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_iris_decision_tree/tree_cart.txt
 
 # Day5 大數據程式語言評量測驗與解析
 
