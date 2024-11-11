@@ -42,15 +42,17 @@
 
 # Day4 Python程式應用實例
 
-+ 期未報告範例
-
-主題: 投資人投資組合-集群法應用
++ 期未報告範例-投資人投資組合-集群法應用
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/report_investor_portfolio/report_168_alan.ipynb
 
-主題: 股票預測
++ 期未報告範例-股票預測
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/report_stock_prediction/report_stock_prediction.ipynb
+
++ iris鳶尾花卉物種分類預測
+
+下載:
 
 # Day5 大數據程式語言評量測驗與解析
 
