@@ -60,9 +60,7 @@
 
 # Day5 大數據程式語言評量測驗與解析
 
-# 期末報告
-
-+ 注意事項: https://github.com/rwepa/python_data_scientist/blob/main/report_readme.txt
++ 期末報告注意事項: https://github.com/rwepa/python_data_scientist/blob/main/report_readme.txt
 
 # 參考資料
 
