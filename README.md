@@ -58,6 +58,10 @@
 
 決策樹文字模型: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_iris_decision_tree/tree_cart.txt
 
++Tutorial - Open data - 臺北市立平均每生分攤經費資料分析
+
+下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_taipei_student_funding/taipei_student_funding.ipynb
+
 # Day5 大數據程式語言評量測驗與解析
 
 + 期末報告注意事項: https://github.com/rwepa/python_data_scientist/blob/main/report_readme.txt
