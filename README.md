@@ -1,6 +1,6 @@
 # Python 程式語言應用
 
-# Day1 Python 語言簡介
+## Day1 Python 語言簡介
 
 + 大綱:
 
@@ -20,7 +20,7 @@
 
 + python: https://github.com/rwepa/python_data_scientist/blob/main/2024-01.python_tutorial.py
 
-# Day2 Python 機器學習
+## Day2 Python 機器學習
 
 + 大綱:
 
@@ -36,11 +36,11 @@
 
 + python: https://github.com/rwepa/python_data_scientist/blob/main/2024-02.machine_learning.py
 
-# Day3 資料探勘技術介紹
+## Day3 資料探勘技術介紹
 
 + python: https://github.com/rwepa/python_data_scientist/blob/main/2024-03.data_mining.ipynb
 
-# Day4 Python程式應用實例
+## Day4 Python程式應用實例
 
 + 期未報告範例-投資人投資組合-集群法應用
 
@@ -62,11 +62,11 @@
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_taipei_student_funding/taipei_student_funding.ipynb
 
-# Day5 大數據程式語言評量測驗與解析
+## Day5 大數據程式語言評量測驗與解析
 
 + 期末報告注意事項: https://github.com/rwepa/python_data_scientist/blob/main/report_readme.txt
 
-# 參考資料
+## 參考資料
 
 + RWEPA: http://rwepa.blogspot.com/
 
