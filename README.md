@@ -42,15 +42,15 @@
 
 ## Day4 Python程式應用實例
 
-+ 期未報告範例-投資人投資組合-集群法應用
++ **Tutorial-投資人投資組合-集群法應用(期末報告)**
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/report_investor_portfolio/report_168_alan.ipynb
 
-+ 期未報告範例-股票預測
++ **Tutorial-股票預測(期末報告)**
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/report_stock_prediction/report_stock_prediction.ipynb
 
-+ Tutorial-iris鳶尾花卉物種分類預測
++ **Tutorial-iris鳶尾花卉物種分類預測(決策樹)**
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_iris_decision_tree/iris_decisiion_tree.ipynb
 
@@ -58,9 +58,21 @@
 
 決策樹文字模型: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_iris_decision_tree/tree_cart.txt
 
-+ Tutorial - Open data - 臺北市立平均每生分攤經費資料分析
++ **Tutorial - Open data - 臺北市立平均每生分攤經費資料分析**
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_taipei_student_funding/taipei_student_funding.ipynb
+
++ **Tutorial - 空氣品質指標(AQI)-集群法**
+
+下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_air_quality_index/tutorial_air_quality_index.ipynb
+
++ **Tutorial - 螺旋槳性能最佳化-KNN填補法**
+
+下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_propeller_design_optimization/tutorial_propeller_design_optimization.ipynb
+
++ **Tutorial - 黃金價格預測-深度學習LSTM**
+
+下載: https://github.com/rwepa/python_data_scientist/tree/main/tutorial_gold_prediction_lstm
 
 ## Day5 大數據程式語言評量測驗與解析
 
