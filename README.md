@@ -72,7 +72,7 @@
 
 + **Tutorial - 黃金價格預測-深度學習LSTM**
 
-下載: https://github.com/rwepa/python_data_scientist/tree/main/tutorial_gold_prediction_lstm
+下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_gold_prediction_lstm/tutorial_gold_prediction_lstm.ipynb
 
 ## Day5 大數據程式語言評量測驗與解析
 
