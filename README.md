@@ -74,6 +74,8 @@
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_propeller_design_optimization/tutorial_propeller_design_optimization.ipynb
 
+  YouTube 【中文字幕】：https://youtu.be/0UJbhVWDuI4
+
 + **Tutorial - 黃金價格預測-深度學習LSTM**
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_gold_prediction_lstm/tutorial_gold_prediction_lstm.ipynb
