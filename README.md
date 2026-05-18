@@ -68,15 +68,15 @@
 
 + **Tutorial - 空氣品質指標(AQI)-集群法**
 
-下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_air_quality_index/tutorial_air_quality_index.ipynb
+🌸YouTube 【中文字幕】：https://youtu.be/0UJbhVWDuI4
+ 
+🌸程式碼下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_air_quality_index/tutorial_air_quality_index.ipynb
 
-LINK: https://rwepa.blogspot.com/2025/03/python-aqi-application.html
+🌸LINK: https://rwepa.blogspot.com/2025/03/python-aqi-application.html
 
 + **Tutorial - 螺旋槳性能最佳化-KNN填補法**
 
 下載: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_propeller_design_optimization/tutorial_propeller_design_optimization.ipynb
-
-  YouTube 【中文字幕】：https://youtu.be/0UJbhVWDuI4
 
 + **Tutorial - 黃金價格預測-深度學習LSTM**
 
