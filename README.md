@@ -1,4 +1,4 @@
-# Python 資料科學
+# Python 資料科學家
 
 ## 主題: Python程式語言財金應用
 
