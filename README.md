@@ -3,7 +3,8 @@
 ## 2026.7.11 新增企鵝資料集-island預測
 
 + 檔名: penguins_prediction.py
-+ 下載: 
+
++ 下載: https://github.com/rwepa/python_data_scientist/blob/main/penguins_prediction.py
 
 ## 主題: Python程式語言財金應用
 
