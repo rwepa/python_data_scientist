@@ -1,6 +1,6 @@
 # Python 資料科學家
 
-## 2026.7.11 新增企鵝資料集-island預測
+## 2026.7.11 企鵝資料集-island預測
 
 + 檔名: penguins_prediction.py
 
