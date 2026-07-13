@@ -1,5 +1,18 @@
 # Python 資料科學家
 
+## 2026.07.23,24,25-亞東科技大學-Python與人工智慧實務應用工作坊
+
++ 單位：教育部產學連結執行辦公室-國立臺北科技大學
+
++ 日期：2026/07/23,24,25
+
++ 下載: https://github.com/rwepa/python_data_scientist/tree/main/tutorial_python_ai_app
+
++ PDF: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_python_ai_app/python_ai_app.pdf
+
++ ipynb: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_python_ai_app/python_ai_app.ipynb
+
+
 ## 2026.7.11 企鵝資料集-island預測
 
 + 檔名: penguins_prediction.py
