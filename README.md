@@ -35,13 +35,17 @@
 + 步驟5 在第5行空白處新增中文字型與網址自動換列處理:
 
     \usepackage{fontspec}
+  
     \usepackage{xeCJK}
+
     \setCJKmainfont{Microsoft JhengHei}
+
     \usepackage{xurl}
 
 + 步驟6 在 \maketitle 之後的第415行位置, 新增2行自動建立目錄與換頁符號, 如無目錄需求, 亦可省略.
 
     \tableofcontents
+
     \clearpage
 
 + 步驟7 關閉修正完成的 python_ai.tex
