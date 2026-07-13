@@ -12,6 +12,13 @@
 
 + ipynb: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_python_ai_app/python_ai_app.ipynb
 
++ 大綱:
+
+  + Python 與資料分析基礎
+
+  + 機器學習應用
+
+  + Streamlit App 開發應用
 
 ## 2026.7.11 企鵝資料集-island預測
 
