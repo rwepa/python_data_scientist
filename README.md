@@ -26,7 +26,7 @@
 
   + Windows 版本下載: https://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe
 
-+ 步驟2 安裝 install-tl-windows.exe, 目錄保持預設值, 不可以修改. 注意: 安裝時間要很久 zzZZZ ....
++ 步驟2 安裝 install-tl-windows.exe, 安裝目錄與選項保持預設值, 不可以修改. 注意: 安裝時間要很久 zzZZZ ....
 
 + 步驟3 在 Anaconda Prompt 視窗輸入: **jupyter nbconvert python_ai.ipynb --to latex**
 
@@ -42,7 +42,7 @@
 
     \usepackage{xurl}
 
-+ 步驟6 在 \maketitle 之後 (414行) 新增2行便為自動建立目錄與換頁符號, 如無目錄需求, 亦可省略.
++ 步驟6 在 \maketitle 之後新增2行便為自動建立目錄與換頁符號, 如無目錄需求, 亦可省略.
 
     \tableofcontents
 
