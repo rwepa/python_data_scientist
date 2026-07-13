@@ -28,6 +28,8 @@
 
 + 步驟2 安裝 install-tl-windows.exe, 安裝目錄與選項保持預設值, 不可以修改. 注意: 安裝時間要很久 zzZZZ ....
 
+![image](https://github.com/rwepa/python_data_scientist/blob/main/tutorial_python_ai_app/tex_live_install.png)
+
 + 步驟3 在 Anaconda Prompt 視窗輸入: **jupyter nbconvert python_ai.ipynb --to latex**
 
 + 步驟4 在上一個步驟執行完成會建立 python_ai.tex, 使用記事本開啟 python_ai.tex
