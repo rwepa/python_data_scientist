@@ -20,6 +20,36 @@
 
 + ipynb: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_python_ai_app/python_ai_app.ipynb
 
+## 如何將 python_ai.ipynb 轉換為 python_ai.pdf
+
++ 步驟1 先下載 TeX Live: 官網: https://tug.org/texlive/ (支援 Windows / MacOS / Linux 版本)
+
+  + Windows 版本下載: https://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe
+
++ 步驟2 安裝 install-tl-windows.exe, 目錄保持預設值, 不可以修改. 注意: 安裝時間要很久 zzZZZ ....
+
++ 步驟3 在 Anaconda Prompt 視窗輸入: **jupyter nbconvert python_ai.ipynb --to latex**
+
++ 步驟4 在上一個步驟執行完成會建立 python_ai.tex, 使用記事本開啟 python_ai.tex
+
++ 步驟5 新增以下4行做為中文字型與網址自動換列處理:
+
+    \usepackage{fontspec}
+
+    \usepackage{xeCJK}
+
+    \setCJKmainfont{Microsoft JhengHei}	
+
+    \usepackage{xurl}
+
++ 步驟6 在 \maketitle 之後 (414行) 新增2行便為自動建立目錄與換頁符號, 如無目錄需求, 亦可省略.
+
+    \tableofcontents
+
+    \clearpage
+
++ 步驟7 在 Anaconda Prompt 視窗輸入: **xelatex python_ai.tex** 完成後會自動建立 python_ai.pdf
+
 ## 2026.7.11 企鵝資料集-island預測
 
 + 檔名: penguins_prediction.py
