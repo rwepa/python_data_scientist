@@ -8,11 +8,11 @@
 
 + 大綱:
 
-  + Python 與資料分析基礎
+  1. Day 1 Python 與資料分析基礎
 
-  + 機器學習應用
+  2. Day 2 機器學習應用
 
-  + Streamlit App 開發應用
+  3. Day 3 Streamlit App 開發應用
 
 + 下載: https://github.com/rwepa/python_data_scientist/tree/main/tutorial_python_ai_app
 
