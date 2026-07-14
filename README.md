@@ -34,7 +34,7 @@
 
 + 步驟4 在上一個步驟執行完成會建立 python_ai.tex, 使用記事本開啟 python_ai.tex
 
-+ 步驟5 在第5行空白處新增中文字型與網址自動換列處理:
++ 步驟5 在第5列空白處新增中文字型與網址自動換列處理:
 
     \usepackage{fontspec}
   
@@ -44,7 +44,7 @@
 
     \usepackage{xurl}
 
-+ 步驟6 在 \maketitle 之後的第415行位置, 新增2行自動建立目錄與換頁符號, 如無目錄需求, 亦可省略.
++ 步驟6 在 \maketitle 之後預留一列空白列(第415列), 在第416列位置, 新增2列自動建立目錄與換頁符號, 如無目錄需求, 亦可省略.
 
     \tableofcontents
 
@@ -52,7 +52,7 @@
 
 + 步驟7 關閉修正完成的 python_ai.tex
 
-+ 步驟8 在 Anaconda Prompt 視窗輸入: **xelatex python_ai.tex** 完成後會自動建立 python_ai.pdf
++ 步驟8 在 Anaconda Prompt 視窗輸入: **xelatex python_ai.tex** 完成後會自動建立 python_ai.pdf, PDF檔案亦會建立PDF書籤.
 
 ## 2026.7.11 企鵝資料集-island預測
 
