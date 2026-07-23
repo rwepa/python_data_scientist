@@ -20,6 +20,8 @@
 
 + ipynb: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_python_ai_app/python_ai_app.ipynb
 
++ GitHub: https://github.com/rwepa/python_data_scientist/tree/main/tutorial_python_ai_app
+
 ## 如何將 python_ai.ipynb 轉換為 python_ai.pdf
 
 + 步驟1 先下載 TeX Live: 官網: https://tug.org/texlive/ (支援 Windows / MacOS / Linux 版本)
