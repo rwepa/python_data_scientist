@@ -14,7 +14,7 @@
 
   + Day 3 Streamlit App 開發應用
 
-+ PDF: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_python_ai_app/python_ai_app.pdf
++ pdf: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_python_ai_app/python_ai_app.pdf
 
 + ipynb: https://github.com/rwepa/python_data_scientist/blob/main/tutorial_python_ai_app/python_ai_app.ipynb
 
